@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 [![Geetanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=geetanshum)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshum)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/geetanshum)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshum&theme=radical&layout=compact" width="100%" height="200em"/>
