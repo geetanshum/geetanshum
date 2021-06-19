@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <div>
   <img src="https://media.giphy.com/media/14aa5GbbHT3bHO/giphy.gif" width="350" height="auto" />
 </div>
+<br>
+<br>
 
 
 
