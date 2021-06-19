@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/14aa5GbbHT3bHO/giphy.gif" width="280" height="auto" /></a>
+  <a img src="https://media.giphy.com/media/14aa5GbbHT3bHO/giphy.gif" width="280" height="auto" /></a>
 </div>
-
-![Alt Text](https://media.giphy.com/media/14aa5GbbHT3bHO/giphy.gif)
 
 
 
