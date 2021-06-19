@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://media1.tenor.com/images/8dbb5716de5ec46614324d2fd23df752/tenor.gif?itemid=5627689)
+![Alt Text](https://giphy.com/gifs/namaste-chumbak-thingsindianssay-RK7MEZc6AEpIlmB5n3)
 
 
 
