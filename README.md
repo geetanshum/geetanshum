@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img src="https://media.giphy.com/media/14aa5GbbHT3bHO/giphy.gif" width="500" height="auto" />
+  <img src="https://media.giphy.com/media/14aa5GbbHT3bHO/giphy.gif" width="350" height="auto" />
 </div>
 
 
