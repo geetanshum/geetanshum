@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/geetanshum)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshum&theme=radical&layout=compact" width="100%" height="200em"/>
-<img src="http://github-readme-streak-stats.herokuapp.com/?user=geetanshum&count_private=true&theme=radical" width="100%" height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetanshum&theme=radical&layout=compact" width="100%" height="200em"/><br><img src="http://github-readme-streak-stats.herokuapp.com/?user=geetanshum&count_private=true&theme=radical" width="100%" height="200em"/>
+
 
